@@ -1,0 +1,715 @@
+TMapDemo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch MapDemo/MapDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo normal i386
+cCopyStringsFile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj/InfoPlist.strings MapDemo/en.lproj/InfoPlist.strings
+cCpResource MapDemo/honeybee.png Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png
+cCompileStoryboard /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Images.xcassets
+cProcessInfoPlistFile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist
+cGenerateDSYMFile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo
+cTouch /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534734460000000000000198
+t1397175366
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F0FDC00000000000003B4
+t1394544604
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F0FE2000000000000019E
+t1394544610
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F0FE3000000000058E0E0
+t1394544611
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F0FE300000000005B82F0
+t1394544611
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534734120000000000446820
+t1397175314
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531F0FE300000000003599D0
+t1394544611
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531F0FE300000000000F1A80
+t1394544611
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F0FE300000000002FC3B0
+t1394544611
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531F0FE3000000000004B000
+t1394544611
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F0FE4000000000088D8C0
+t1394544612
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000531F0FE500000000002E6B60
+t1394544613
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531F0FE60000000000037680
+t1394544614
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F0FE6000000000048F720
+t1394544614
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F0FE6000000000013FD70
+t1394544614
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F0FE80000000001F1DE10
+t1394544616
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F0FF100000000002BC360
+t1394544625
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531F0FF50000000000002338
+t1394544629
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F0FF5000000000008D370
+t1394544629
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F0FF50000000000392E20
+t1394544629
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537A09D400000000000141F0
+t1400506836
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531F0FF60000000000014A80
+t1394544630
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531F0FF60000000000033BA0
+t1394544630
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531F0FF6000000000001CFB0
+t1394544630
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531F0FF6000000000001B2B0
+t1394544630
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531F0FF600000000000C9570
+t1394544630
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F0FF60000000000063280
+t1394544630
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531F0FF60000000000008880
+t1394544630
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531F0FF60000000000015080
+t1394544630
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531F0FF600000000000230F0
+t1394544630
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531F0FF6000000000000E380
+t1394544630
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F0FF60000000000089380
+t1394544630
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531F0FF60000000000017320
+t1394544630
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531F0FF60000000000039CD0
+t1394544630
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531F0FF6000000000000B0B0
+t1394544630
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531F0FF60000000000167E80
+t1394544630
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531F0FF600000000000106A0
+t1394544630
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531F0FF6000000000001CE40
+t1394544630
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531F0FF600000000000740C0
+t1394544630
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531F0FF6000000000006CA60
+t1394544630
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531F0FF6000000000001BAD0
+t1394544630
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F0FF60000000000084A20
+t1394544630
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F0FF90000000000000ADC
+t1394544633
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053473412000000000000514C
+t1397175314
+s20812
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o
+t1406050402
+s62568
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o
+t1406053586
+s90284
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/MapDemo.LinkFileList
+c0000000053CEA062000000000000021C
+t1406050402
+s540
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o
+t1406050402
+s3648
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_dependencies.txt
+t1406050403
+s485
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_generated_info.plist
+t1406050403
+s525
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch
+t1406050402
+s122652
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app
+t1406053586
+s340
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM
+t1406053258
+s102
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Base.lproj/Main.storyboardc
+t1406051895
+s170
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist
+t1406050404
+s1013
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo
+t1406053586
+s39400
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/PkgInfo
+t1406050404
+s8
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj/InfoPlist.strings
+t1406050402
+s42
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png
+t1406053164
+s6903
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Base.lproj/Main.storyboard
+c0000000053CEA5CE0000000000001761
+t1406051790
+s5985
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.h
+c0000000053CE9B400000000000000125
+t1406049088
+s293
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m
+c0000000053CE9B4000000000000007E9
+t1406049088
+s2025
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.h
+c0000000053CEA9DA0000000000000206
+t1406052826
+s518
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m
+c0000000053CEACD20000000000001978
+t1406053586
+s6520
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Images.xcassets
+c0000000053CE9B400000000000000088
+t1406049088
+s136
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist
+c0000000053CE9B4000000000000004C9
+t1406049088
+s1225
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Prefix.pch
+c0000000053CE9B400000000000000158
+t1406049088
+s344
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/en.lproj/InfoPlist.strings
+c0000000053CE9B40000000000000002D
+t1406049088
+s45
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/honeybee.png
+c000000005390C1570000000000001AF7
+t1401995607
+s6903
+
+N/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m
+c0000000053CE9B400000000000000161
+t1406049088
+s353
+
+N/usr/lib/libSystem.B.dylib
+c00000000537A09C3000000000000E6D0
+t1400506819
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052A9C2CF0000000000012A00
+t1386857167
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052A9C2B8000000000002E320
+t1386857144
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052A9C2C30000000000021860
+t1386857155
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052A9C2CF000000000001B620
+t1386857167
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052A9C2CF00000000000BD920
+t1386857167
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000537A09D400000000000141F0
+t1400506836
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052A9C2CF000000000000A120
+t1386857167
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530E6F23000000000001D550
+t1393454883
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052A9C2CF0000000000014EE0
+t1386857167
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052A9C2D10000000000010380
+t1386857169
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052A9C2D1000000000000C4C0
+t1386857169
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052A9C2CF00000000000357A0
+t1386857167
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052A9C2CF000000000000C070
+t1386857167
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537A09D10000000000010630
+t1400506833
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530E6F23000000000001DF10
+t1393454883
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052A9C2C30000000000075B00
+t1386857155
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000537A09C3000000000007CD60
+t1400506819
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052A9C2C300000000000766C0
+t1386857155
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052A9C2C30000000000021FA0
+t1386857155
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530E6F23000000000002D920
+t1393454883
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052A9C2D0000000000001E570
+t1386857168
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000537A09CA000000000000CC70
+t1400506826
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052A9C2CB000000000000C3F0
+t1386857163
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052A9C2D000000000000199F0
+t1386857168
+s104944
+
+CBuild AST from /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m
+r0
+
+CBuild AST from /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m
+r0
+
+CBuild AST from /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies74b73352e47eb941^20463452e47eb941^---0#1#1#--18"Check dependencies36"4C5FD0A6-8A46-4E0F-B5A9-0A250F076B07-
+
+CCompileAssetCatalog /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Images.xcassets
+s427743202.947838
+e427743203.742496
+r1
+xCompileAssetCatalog
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/LaunchImage-700-568h@2x.png
+o/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Assets.car
+o/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CompileAssetCatalog Build/Products/Debug-iphonesimulator/MapDemo.app MapDemo/Images.xcassets92"CompileAssetCatalog Build/Products/Debug-iphonesimulator/MapDemo.app MapDemo/Images.xcassetsf2b2f2e2d77eb941^9c14bee3d77eb941^-513"/* com.apple.actool.compilation-results *//Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/LaunchImage-700-568h@2x.png/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Assets.car/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@107"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Images.xcassets/0000000000000000^1323"CompileAssetCatalog Build/Products/Debug-iphonesimulator/MapDemo.app MapDemo/Images.xcassets    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Images.xcassets36"ED397377-7C02-4439-B0DD-ACC95091FAF3-
+b4098A605-F6AE-4E4A-9BC6-894F31B19E13
+
+CCompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427743202.691092
+e427743202.831105
+r1
+xCompileC
+xBuild/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m206"CompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o MapDemo/GVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera9fbb0e2d77eb941^48c4d4e2d77eb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m0000000000000000^4183"CompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o MapDemo/GVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/engeljo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-generated-files.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-own-target-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-all-target-headers.hmap -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-project-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources/i386 -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources -F/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator -include /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch -MMD -MT dependencies -MF /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.d --serialize-diagnostics /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.dia -c /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.m -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o36"38D67FCD-0E2C-4056-82F6-7C0EF02565B4-
+b4098A605-F6AE-4E4A-9BC6-894F31B19E13
+
+CCompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427746386.204278
+e427746386.285345
+r1
+xCompileC
+xBuild/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m212"CompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o MapDemo/GVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a673452e47eb941^670e4952e47eb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m0000000000000000^4201"CompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o MapDemo/GVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/engeljo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-generated-files.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-own-target-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-all-target-headers.hmap -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-project-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources/i386 -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources -F/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator -include /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch -MMD -MT dependencies -MF /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.d --serialize-diagnostics /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.dia -c /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVViewController.m -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o36"BFA21293-4A00-4701-B89F-EEE88107F59E-
+b18B85026-B09E-46CC-8D35-348A46DC31BC
+
+CCompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427743202.690697
+e427743202.828002
+r1
+xCompileC
+xBuild/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/GVAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m188"CompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o MapDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4e5b0e2d77eb941^cbf8d3e2d77eb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m0000000000000000^4129"CompileC Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o MapDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/engeljo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-generated-files.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-own-target-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-all-target-headers.hmap -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-project-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources/i386 -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources -F/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator -include /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch -MMD -MT dependencies -MF /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.dia -c /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/main.m -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o36"50BE0272-E67C-41C7-9CDC-244C7591AFB9-
+b4098A605-F6AE-4E4A-9BC6-894F31B19E13
+
+CCompileStoryboard /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Base.lproj/Main.storyboard
+s427744695.250780
+e427744695.322192
+r1
+xCompileStoryboard
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"CompileStoryboard MapDemo/Base.lproj/Main.storyboard52"CompileStoryboard MapDemo/Base.lproj/Main.storyboarda33f40b7dd7eb941^d57b52b7dd7eb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Base.lproj/Main.storyboard0000000000000000^950"CompileStoryboard MapDemo/Base.lproj/Main.storyboard    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Base.lproj/Main.storyboardc /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/Base.lproj/Main.storyboard36"9233C2B4-D556-4E9F-873A-80B781300709-
+b93FC6461-2BA1-40E5-8DC7-8EFB63D7CCB8
+
+CCopyStringsFile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj/InfoPlist.strings MapDemo/en.lproj/InfoPlist.strings
+s427743202.947378
+e427743202.948449
+r1
+xCopyStringsFile
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj/InfoPlist.strings
+xMapDemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy MapDemo/en.lproj/InfoPlist.strings126"CopyStringsFile Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj/InfoPlist.strings MapDemo/en.lproj/InfoPlist.strings6c93f2e2d77eb941^53cff2e2d77eb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/en.lproj/InfoPlist.strings0000000000000000^667"CopyStringsFile Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj/InfoPlist.strings MapDemo/en.lproj/InfoPlist.strings    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/en.lproj -- MapDemo/en.lproj/InfoPlist.strings36"31D9E852-7F31-48BA-AE64-4662B9B4B989-
+b4098A605-F6AE-4E4A-9BC6-894F31B19E13
+
+CCpResource MapDemo/honeybee.png Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png
+s427745964.809059
+e427745964.809969
+r1
+xCpResource
+xMapDemo/honeybee.png
+xBuild/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png93"CpResource MapDemo/honeybee.png Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.pngbb2bcface27eb941^d95acface27eb941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png0034f0b8dcffdf42^706"CpResource MapDemo/honeybee.png Build/Products/Debug-iphonesimulator/MapDemo.app/honeybee.png    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/honeybee.png /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app36"F23A3D24-5D15-4759-B01C-417E2D3AC2D8-
+bF41BE575-F29C-42EB-B43C-0734C9F24001
+
+CGenerateDSYMFile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo
+s427746386.317740
+e427746386.331915
+r1
+xGenerateDSYMFile
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Generate /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM127"GenerateDSYMFile Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo24635152e47eb941^d7f85452e47eb941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM/0000000000000000^772"GenerateDSYMFile Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app.dSYM36"0046E762-7DD4-4563-AEAE-AC55CC712458-
+b18B85026-B09E-46CC-8D35-348A46DC31BC
+
+CLd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo normal i386
+s427746386.287022
+e427746386.316166
+r1
+xLd
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo
+xnormal
+xi386
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/MapDemo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/main.o
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVViewController.o
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/GVAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo71"Ld Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo normal i3863c884952e47eb941^c7f05052e47eb941^---0#0#1#--1653"Ld Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo normal i386    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator -F/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator -filelist /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/MapDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework MapKit -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/Objects-normal/i386/MapDemo_dependency_info.dat -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/MapDemo36"B1CFDEE8-DB9C-44CB-96D2-C3A2CEB43B9B-
+b18B85026-B09E-46CC-8D35-348A46DC31BC
+
+CProcessInfoPlistFile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist
+s427743204.130167
+e427743204.132209
+r1
+xProcessInfoPlistFile
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Process /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist107"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist MapDemo/MapDemo-Info.plist4a5e21e4d77eb941^d8d821e4d77eb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist0000000000000000^1067"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist MapDemo/MapDemo-Info.plist    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Info.plist -genpkginfo /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/assetcatalog_generated_info.plist -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app/Info.plist36"2731B2F3-B54A-49F4-BC11-4E9571F8D6EB-
+b4098A605-F6AE-4E4A-9BC6-894F31B19E13
+
+CProcessPCH /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch MapDemo/MapDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427743202.367191
+e427743202.690125
+r1
+xProcessPCH
+x/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch
+xMapDemo/MapDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MapDemo/MapDemo-Prefix.pch211"ProcessPCH Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch MapDemo/MapDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler105b5ee2d77eb941^7eacb0e2d77eb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Prefix.pch0000000000000000^4007"ProcessPCH Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch MapDemo/MapDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/engeljo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-generated-files.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-own-target-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-all-target-headers.hmap -iquote /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/MapDemo-project-headers.hmap -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources/i386 -I/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/MapDemo.build/Debug-iphonesimulator/MapDemo.build/DerivedSources -F/Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.d -c /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/MapDemo/MapDemo-Prefix.pch -o /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Intermediates/PrecompiledHeaders/MapDemo-Prefix-grcyupumdvthhrailhtcfxcvgjiw/MapDemo-Prefix.pch.pch36"63D16711-93FA-438C-A9A2-968EC2E22DCE-
+b4098A605-F6AE-4E4A-9BC6-894F31B19E13
+
+CProcessPCH /Users/engeljo/Library/Developer/Xcode/DerivedData/MapDemo-eusbvksyeqvbwmdjnyzpzzfggwri/Index/PrecompiledHeaders/MapDemo-Prefix-cjzqhaxwdxqnatbxvcegnconntoy_ast/MapDemo-Prefix.pch.pch MapDemo/MapDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/engeljo/Documents/Courses/CIS380/CIS380-Summer2014/CodeDemos/MapDemo/Build/Products/Debug-iphonesimulator/MapDemo.app
+r0
+

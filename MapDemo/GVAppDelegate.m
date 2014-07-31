@@ -2,8 +2,9 @@
 //  GVAppDelegate.m
 //  MapDemo
 //
-//  Created by Jonathan Engelsma on 7/22/14.
-//  Copyright (c) 2014 Jonathan Engelsma. All rights reserved.
+//  Created by X Code User on 7/16/14.
+//  Copyright (c) 2014 Joshua Spicer, Fabio Germann. All rights reserved.
+
 //
 
 #import "GVAppDelegate.h"
